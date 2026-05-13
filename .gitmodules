@@ -1,0 +1,21 @@
+[submodule "models/claude-opus"]
+	path = models/claude-opus
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-opus
+[submodule "models/claude-opus-4-6"]
+	path = models/claude-opus-4-6
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-6
+[submodule "models/claude-sonnet"]
+	path = models/claude-sonnet
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-sonnet
+[submodule "models/gemini-pro"]
+	path = models/gemini-pro
+	url = https://github.com/mechanize-work/gba-eval-attempt-gemini-pro
+[submodule "models/gpt-5-4"]
+	path = models/gpt-5-4
+	url = https://github.com/mechanize-work/gba-eval-attempt-gpt-5-4
+[submodule "models/gpt-5-5"]
+	path = models/gpt-5-5
+	url = https://github.com/mechanize-work/gba-eval-attempt-gpt-5-5
+[submodule "models/kimi-k2-6"]
+	path = models/kimi-k2-6
+	url = https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-6
