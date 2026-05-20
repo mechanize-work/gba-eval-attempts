@@ -18,6 +18,7 @@ the agent committed across the 24 hours.
 | Claude Opus 4.6    | Claude Agent SDK   | [gba-eval-attempt-claude-opus-4-6](https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-6) |
 | Claude Sonnet 4.6  | Claude Agent SDK   | [gba-eval-attempt-claude-sonnet](https://github.com/mechanize-work/gba-eval-attempt-claude-sonnet)     |
 | Gemini 3.1 Pro     | Gemini CLI         | [gba-eval-attempt-gemini-pro](https://github.com/mechanize-work/gba-eval-attempt-gemini-pro)           |
+| Gemini 3.5 Flash   | goose (OpenRouter) | [gba-eval-attempt-gemini-3-5-flash](https://github.com/mechanize-work/gba-eval-attempt-gemini-3-5-flash) |
 | GPT-5.4            | Codex CLI          | [gba-eval-attempt-gpt-5-4](https://github.com/mechanize-work/gba-eval-attempt-gpt-5-4)                 |
 | GPT-5.5            | Codex CLI          | [gba-eval-attempt-gpt-5-5](https://github.com/mechanize-work/gba-eval-attempt-gpt-5-5)                 |
 | Kimi K2.6          | goose (OpenRouter) | [gba-eval-attempt-kimi-k2-6](https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-6)             |

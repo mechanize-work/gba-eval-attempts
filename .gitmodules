@@ -19,3 +19,6 @@
 [submodule "models/kimi-k2-6"]
 	path = models/kimi-k2-6
 	url = https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-6
+[submodule "models/gemini-3-5-flash"]
+	path = models/gemini-3-5-flash
+	url = https://github.com/mechanize-work/gba-eval-attempt-gemini-3-5-flash.git
