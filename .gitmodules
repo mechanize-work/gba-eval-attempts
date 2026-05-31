@@ -22,3 +22,6 @@
 [submodule "models/gemini-3-5-flash"]
 	path = models/gemini-3-5-flash
 	url = https://github.com/mechanize-work/gba-eval-attempt-gemini-3-5-flash.git
+[submodule "models/claude-opus-4-8"]
+	path = models/claude-opus-4-8
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-8
