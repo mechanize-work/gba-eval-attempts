@@ -25,3 +25,9 @@
 [submodule "models/claude-opus-4-8"]
 	path = models/claude-opus-4-8
 	url = https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-8
+[submodule "models/minimax-m3"]
+	path = models/minimax-m3
+	url = https://github.com/mechanize-work/gba-eval-attempt-minimax-m3
+[submodule "models/qwen3-7-max"]
+	path = models/qwen3-7-max
+	url = https://github.com/mechanize-work/gba-eval-attempt-qwen3-7-max

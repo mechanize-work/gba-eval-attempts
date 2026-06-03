@@ -1,6 +1,6 @@
 # GBA Eval — Final Run Attempts
 
-The nine emulator codebases produced by frontier AI coding agents in
+The eleven emulator codebases produced by frontier AI coding agents in
 the [GBA Eval](https://gbaeval.com) May 2026 leaderboard. Each agent
 had 24 hours to write a complete software Game Boy Advance emulator
 with WebAssembly support from scratch.
@@ -14,6 +14,7 @@ the agent committed across the 24 hours.
 
 | Model              | Harness            | Repo                                                                                                  |
 |--------------------|--------------------|-------------------------------------------------------------------------------------------------------|
+| Claude Opus 4.8    | Claude Agent SDK   | [gba-eval-attempt-claude-opus-4-8](https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-8) |
 | Claude Opus 4.7    | Claude Agent SDK   | [gba-eval-attempt-claude-opus](https://github.com/mechanize-work/gba-eval-attempt-claude-opus)         |
 | Claude Opus 4.6    | Claude Agent SDK   | [gba-eval-attempt-claude-opus-4-6](https://github.com/mechanize-work/gba-eval-attempt-claude-opus-4-6) |
 | Claude Sonnet 4.6  | Claude Agent SDK   | [gba-eval-attempt-claude-sonnet](https://github.com/mechanize-work/gba-eval-attempt-claude-sonnet)     |
@@ -22,6 +23,8 @@ the agent committed across the 24 hours.
 | GPT-5.4            | Codex CLI          | [gba-eval-attempt-gpt-5-4](https://github.com/mechanize-work/gba-eval-attempt-gpt-5-4)                 |
 | GPT-5.5            | Codex CLI          | [gba-eval-attempt-gpt-5-5](https://github.com/mechanize-work/gba-eval-attempt-gpt-5-5)                 |
 | Kimi K2.6          | goose (OpenRouter) | [gba-eval-attempt-kimi-k2-6](https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-6)             |
+| MiniMax M3         | goose (OpenRouter) | [gba-eval-attempt-minimax-m3](https://github.com/mechanize-work/gba-eval-attempt-minimax-m3)           |
+| Qwen 3.7 Max       | goose (OpenRouter) | [gba-eval-attempt-qwen3-7-max](https://github.com/mechanize-work/gba-eval-attempt-qwen3-7-max)         |
 
 ## Cloning
 
