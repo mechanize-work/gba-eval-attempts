@@ -31,3 +31,9 @@
 [submodule "models/qwen3-7-max"]
 	path = models/qwen3-7-max
 	url = https://github.com/mechanize-work/gba-eval-attempt-qwen3-7-max
+[submodule "models/glm-5-2"]
+	path = models/glm-5-2
+	url = https://github.com/mechanize-work/gba-eval-attempt-glm-5-2
+[submodule "models/kimi-k2-7"]
+	path = models/kimi-k2-7
+	url = https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-7
