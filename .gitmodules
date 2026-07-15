@@ -40,3 +40,12 @@
 [submodule "models/claude-fable-5"]
 	path = models/claude-fable-5
 	url = https://github.com/mechanize-work/gba-eval-attempt-claude-fable-5
+[submodule "models/claude-sonnet-5"]
+	path = models/claude-sonnet-5
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-sonnet-5
+[submodule "models/codex-gpt-5-6-sol"]
+	path = models/codex-gpt-5-6-sol
+	url = https://github.com/mechanize-work/gba-eval-attempt-codex-gpt-5-6-sol
+[submodule "models/grok-4-5"]
+	path = models/grok-4-5
+	url = https://github.com/mechanize-work/gba-eval-attempt-grok-4-5
