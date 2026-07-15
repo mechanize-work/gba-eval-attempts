@@ -37,3 +37,6 @@
 [submodule "models/kimi-k2-7"]
 	path = models/kimi-k2-7
 	url = https://github.com/mechanize-work/gba-eval-attempt-kimi-k2-7
+[submodule "models/claude-fable-5"]
+	path = models/claude-fable-5
+	url = https://github.com/mechanize-work/gba-eval-attempt-claude-fable-5
