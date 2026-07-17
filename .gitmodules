@@ -49,3 +49,6 @@
 [submodule "models/grok-4-5"]
 	path = models/grok-4-5
 	url = https://github.com/mechanize-work/gba-eval-attempt-grok-4-5
+[submodule "models/muse-spark-1-1"]
+	path = models/muse-spark-1-1
+	url = https://github.com/mechanize-work/gba-eval-attempt-muse-spark-1-1
