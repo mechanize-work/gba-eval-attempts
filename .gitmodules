@@ -52,3 +52,6 @@
 [submodule "models/muse-spark-1-1"]
 	path = models/muse-spark-1-1
 	url = https://github.com/mechanize-work/gba-eval-attempt-muse-spark-1-1
+[submodule "models/kimi-k3"]
+	path = models/kimi-k3
+	url = https://github.com/mechanize-work/gba-eval-attempt-kimi-k3
